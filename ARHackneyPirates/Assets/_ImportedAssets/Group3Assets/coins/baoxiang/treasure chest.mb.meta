@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: ff1e270174bc6544396caf9b0b94a84f
+timeCreated: 1513053126
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: aiSkyDomeLight1
+    100002: polySurface1
+    100004: polySurface2
+    100006: polySurface3
+    100008: polySurface9
+    100010: pPlane1
+    100012: pPlane2
+    100014: //RootNode
+    100016: treasure_chest:Chest_1stage_base_low
+    100018: treasure_chest:Chest_1stage_coins_low
+    100020: treasure_chest:Chest_1stage_key_low1_1
+    100022: treasure_chest:Chest_1stage_planks_low
+    100024: treasure_chest:imagePlane1
+    100026: treasure_chest:polySurface1
+    100028: treasure_chest:polySurface11
+    100030: treasure_chest:polySurface2
+    100032: treasure_chest:polySurface3
+    100034: treasure_chest:polySurface4
+    100036: treasure_chest:polySurface5
+    100038: treasure_chest:polySurface6
+    100040: treasure_chest:polySurface7
+    100042: treasure_chest:polySurface7 1
+    100044: treasure_chest:polySurface9
+    400000: aiSkyDomeLight1
+    400002: polySurface1
+    400004: polySurface2
+    400006: polySurface3
+    400008: polySurface9
+    400010: pPlane1
+    400012: pPlane2
+    400014: //RootNode
+    400016: treasure_chest:Chest_1stage_base_low
+    400018: treasure_chest:Chest_1stage_coins_low
+    400020: treasure_chest:Chest_1stage_key_low1_1
+    400022: treasure_chest:Chest_1stage_planks_low
+    400024: treasure_chest:imagePlane1
+    400026: treasure_chest:polySurface1
+    400028: treasure_chest:polySurface11
+    400030: treasure_chest:polySurface2
+    400032: treasure_chest:polySurface3
+    400034: treasure_chest:polySurface4
+    400036: treasure_chest:polySurface5
+    400038: treasure_chest:polySurface6
+    400040: treasure_chest:polySurface7
+    400042: treasure_chest:polySurface7 1
+    400044: treasure_chest:polySurface9
+    2300000: polySurface2
+    2300002: pPlane1
+    2300004: pPlane2
+    2300006: treasure_chest:Chest_1stage_coins_low
+    2300008: treasure_chest:Chest_1stage_key_low1_1
+    2300010: treasure_chest:Chest_1stage_planks_low
+    2300012: treasure_chest:polySurface1
+    2300014: treasure_chest:polySurface11
+    2300016: treasure_chest:polySurface3
+    2300018: treasure_chest:polySurface4
+    2300020: treasure_chest:polySurface6
+    2300022: treasure_chest:polySurface7
+    3300000: polySurface2
+    3300002: pPlane1
+    3300004: pPlane2
+    3300006: treasure_chest:Chest_1stage_coins_low
+    3300008: treasure_chest:Chest_1stage_key_low1_1
+    3300010: treasure_chest:Chest_1stage_planks_low
+    3300012: treasure_chest:polySurface1
+    3300014: treasure_chest:polySurface11
+    3300016: treasure_chest:polySurface3
+    3300018: treasure_chest:polySurface4
+    3300020: treasure_chest:polySurface6
+    3300022: treasure_chest:polySurface7
+    4300000: treasure_chest:polySurface1
+    4300002: treasure_chest:polySurface3
+    4300004: treasure_chest:polySurface4
+    4300006: treasure_chest:polySurface6
+    4300008: treasure_chest:polySurface11
+    4300010: polySurface2
+    4300012: treasure_chest:Chest_1stage_planks_low
+    4300014: treasure_chest:Chest_1stage_coins_low
+    4300016: treasure_chest:Chest_1stage_key_low1_1
+    4300018: treasure_chest:polySurface7
+    4300020: pPlane1
+    4300022: pPlane2
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandard1
+    second: {fileID: 2100000, guid: f1ec92aba8c38344aa0e9406cc8c1788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 781ec649b35aa7c42b44ef832bddd49b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__aiStandard1
+    second: {fileID: 2100000, guid: 83dee5956641d304980b845ccee06850, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

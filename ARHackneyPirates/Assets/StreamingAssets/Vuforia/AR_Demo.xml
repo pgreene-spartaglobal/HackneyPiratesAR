@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Pirate" size="0.052000 0.065319" />
+    <ImageTarget name="cocoa_target_1_scaled" size="0.052000 0.059820" />
+    <ImageTarget name="10-pound-note" size="0.069000 0.131595" />
+    <ImageTarget name="TargetImage" size="1.000000 1.000000" />
+    <ImageTarget name="chiya_target" size="1.000000 1.000000" />
+    <ImageTarget name="cocoa_target" size="1.000000 0.910000" />
+  </Tracking>
+</QCARConfig>

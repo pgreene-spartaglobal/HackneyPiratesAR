@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Scenes/Testing/Maze.unity
+    guid: 482ea9fe90102d645b2f7e926e9fc594
+  - enabled: 0
+    path: Assets/_Scenes/Testing/QuizMultipleChoice.unity
+    guid: 94979c4d34b8c664b8f69aa8e097ede8
+  - enabled: 0
+    path: Assets/_Scenes/Testing/Waterfall.unity
+    guid: a92530e8dbbf87a429018b6b4bdc3a42
+  - enabled: 0
+    path: Assets/_Scenes/Testing/FrontCamera.unity
+    guid: 356886269e244c64e9d87a57f540298a
+  - enabled: 0
+    path: Assets/_Scenes/Testing/TreasureChest.unity
+    guid: 429a079febdbeeb4d936d8ff21e861f8
+  - enabled: 0
+    path: Assets/_Scenes/Testing/UITest.unity
+    guid: 9082acc1a9c156d41a1e4a1384daf143
+  - enabled: 0
+    path: Assets/_Scenes/Testing/HackneyTestingScene.unity
+    guid: e9e83a2b75fefb441bef9921a2a4d0cf
+  - enabled: 0
+    path: Assets/_Scenes/Testing/BoatGame.unity
+    guid: ab7fa1734791e9945a3e7e2a1f8e382b
+  - enabled: 0
+    path: Assets/_Scenes/Testing/RaycastMenu.unity
+    guid: 184e5fd300ddbd14195658f5be23631d
+  - enabled: 0
+    path: Assets/_Scenes/Testing/RaycastTest.unity
+    guid: f76ca87c99a3f394bafa473d4ed3c5dd
+  - enabled: 0
+    path: Assets/_Scenes/Testing/CoconutShootingTarget.unity
+    guid: ee6257761f278be4b83e869510545b2b
+  - enabled: 0
+    path: Assets/_Scenes/Testing/PenguinGame.unity
+    guid: c6de892436baf0b4185815f8d0cf5396
+  - enabled: 1
+    path: Assets/_Scenes/Testing/DonutGame.unity
+    guid: ab491da2e41f24d4dbc147bde451cbdb
